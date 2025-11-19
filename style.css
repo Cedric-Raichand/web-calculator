@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
 }
 
-/* Calculator container */
+
 #calculator {
     font-family: 'Segoe UI', sans-serif;
     background-color: #1c1c1c;
@@ -172,7 +172,7 @@ input:checked + .slider:before {
 
 .light-mode #calculator {
     background-color: #f2f2f2;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 22px rgba(0, 0, 0, 0.1);
     color: black;
 }
 
@@ -194,7 +194,7 @@ input:checked + .slider:before {
 .light-mode button {
     background-color: #f0f0f0;
     color: black;
-    box-shadow: 0 6px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 8px rgba(0,0,0,0.1);
     border: 1px solid #ccc;
 
 }
